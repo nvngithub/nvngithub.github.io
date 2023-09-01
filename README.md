@@ -29,24 +29,25 @@
  
 ## Technical Knowlegde
 
-| col1 | col2 |
+
+| Category | Technologies |
 | ---  | ---- |
-| Programming languages | C#, SQL, VB, VBA, XML, XAML, XSLT |
-| Design patterns | IoC, Dependency Injection, Singleton, MVC, MVVM, MVP, Factory, Adapter, Chain of responsibility, NGRX |
-| .Net| .Net Framework 2/3.5/34.8, .Net Core 3.1/6 |
+| Programming languages | C#, Python, C++, SQL, VB, VBA, XML, XAML, XSLT |
+| Design patterns | IoC, Dependency Injection, Singleton, MVC, MVVM, MVP, Factory, Adapter, Chain of responsibility, NGRX, Command, Iterator, Mediator, Observer |
+| .Net| .Net Framework 2/3.5/4.8, .Net Core 3.1/6/7 |
 | Windows technologies | Win Forms, WPF, ADO.NET, WCF, Web/Windows Service |
-| Web technologies|Angular, Material design, Typescript, ASP.NET, ASP.NET MVC, Web API, REST, CSS, HTML, JavaScript, JQuery, Ajax, JSON, Bootstrap |
-|AWS Cloud | EC2, RDS, Aurora, Lambda, Step Functions, Cloud front, API Gateway, Route 53, S3, DynamoDB, SES, SNS, SQS, IAM, VPC, Fargate, ECR, ECS, EKS, Cognito, ASG, Couldwatch, |Code Pipeline, DR Plan, Load Balancers (ALB), Elastic Search, Athena, Textract, Comprehend, EBS, WAF, ACM, Kinesis |
+| Web technologies | Angular, Material design, Typescript, ASP.NET, ASP.NET MVC, Web API, REST, CSS, HTML, JavaScript, JQuery, Ajax, JSON, Bootstrap |
+| AWS Cloud | EC2, RDS, Aurora, Lambda, Step Functions, Cloud front, API Gateway, Route 53, S3, DynamoDB, SES, SNS, SQS, IAM, VPC, Fargate, ECR, ECS, EKS, Cognito, ASG, Couldwatch, |Code Pipeline, DR Plan, Load Balancers (ALB), Elastic Search, Athena, Textract, Comprehend, EBS, WAF, ACM, Kinesis |
 | Azure | Cloud services, Functions, Virtual Machines, SQL, CosmosDB, Blob Storage, Managed Storage, Active Directory, Autoscale, Traffic Manager, Load Balancers, CDN |
-| AI  |AWS SageMaker |
+| AI  | AWS SageMaker, OpenAI API |
 | CI/CD | Azure Devops, Terraform, Serverless |
 | Containers | Dockers |
 | Unix technologies | C++ 11/17, GDB, GMock, Shell Scripting, WxWidgets |
-| Databases | Snowflake, Oracle 11g, MySql, MS SQL Server, MS Access, SQLite |
+| Databases | Snowflake, Oracle 11g, MySql, MS SQL Server, MS Access, PostgreSQL, CosmosDB, DynamoDB, SQLite |
 | ORM | Entity Framework, NHibernate |
-| Database IDE | MySQL Browser, SQL Server Management Studio, Oracle SQL Developer |
-| Code Quality | SonarQube |
-| Reporting  |Crystal reports, Splunk |
+| Database IDE | MySQL Browser, SQL Server Management Studio, Oracle SQL Developer, Toad, DBeaver |
+| Code Quality | SonarQube, FxCop |
+| Reporting  | Crystal reports, Splunk |
 | Development environments | Visual Studio Code, Visual Studio (2008/2010/2013/2017) |
 | Libraries | Microsoft Office PIA, Syncfusion, Dev Express, Selenium |
 | Tools | Visio, Wireshark, NUnit, NCover, FxCop, VMWare, Resharper, Make, CMake, GDB, GTest, WSL |
