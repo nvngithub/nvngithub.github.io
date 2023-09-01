@@ -24,9 +24,9 @@
 * Good experience in identifying, fixing production issues.
 * Good communication and interpersonal skills. Strong points include quicker grasp to new concepts, the ability to pursue matters in detail and ability to work in team.
 * Experience in working with team of diverse culture (Singapore, Netherland, United States).
-|col1|col2|
-|----|----|
-|Programming languages|C#, SQL, VB, VBA, XML, XAML, XSLT|
+| col1 | col2 |
+| ---- | ---- |
+| Programming languages | C#, SQL, VB, VBA, XML, XAML, XSLT |
 |Design patterns|IoC, Dependency Injection, Singleton, MVC, MVVM, MVP, Factory, Adapter, Chain of responsibility, NGRX
 |.Net|.Net Framework 2/3.5/34.8, .Net Core 3.1/6
 |Windows technologies|Win Forms, WPF, ADO.NET, WCF, Web/Windows Service
