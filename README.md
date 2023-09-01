@@ -33,25 +33,25 @@
 | ---  | ---- |
 | Programming languages | C#, SQL, VB, VBA, XML, XAML, XSLT |
 | Design patterns | IoC, Dependency Injection, Singleton, MVC, MVVM, MVP, Factory, Adapter, Chain of responsibility, NGRX |
-|.Net|.Net Framework 2/3.5/34.8, .Net Core 3.1/6|
-|Windows technologies|Win Forms, WPF, ADO.NET, WCF, Web/Windows Service|
-|Web technologies|Angular, Material design, Typescript, ASP.NET, ASP.NET MVC, Web API, REST, CSS, HTML, JavaScript, JQuery, Ajax, JSON, Bootstrap|
-|AWS Cloud|EC2, RDS, Aurora, Lambda, Step Functions, Cloud front, API Gateway, Route 53, S3, DynamoDB, SES, SNS, SQS, IAM, VPC, Fargate, ECR, ECS, EKS, Cognito, ASG, Couldwatch, |Code Pipeline, DR Plan, Load Balancers (ALB), Elastic Search, Athena, Textract, Comprehend, EBS, WAF, ACM, Kinesis|
-|Azure Cloud|Cloud services, Functions, Virtual Machines, SQL, CosmosDB, Blob Storage, Managed Storage, Active Directory, Autoscale, Traffic Manager, Load Balancers, CDN|
-|AI|AWS SageMaker|
-|CI/CD|Azure Devops, Terraform, Serverless|
-|Containers|Dockers|
-|Unix technologies|C++ 11/17, GDB, GMock, Shell Scripting, WxWidgets|
-|Databases|Snowflake, Oracle 11g, MySql, MS SQL Server, MS Access, SQLite|
-|ORM|Entity Framework, NHibernate|
-|Database IDE|MySQL Browser, SQL Server Management Studio, Oracle SQL Developer|
-|Code Quality|SonarQube|
-|Reporting|Crystal reports, Splunk|
-|Development environments|Visual Studio Code, Visual Studio (2008/2010/2013/2017)|
-|Libraries|Microsoft Office PIA, Syncfusion, Dev Express, Selenium|
-|Tools|Visio, Wireshark, NUnit, NCover, FxCop, VMWare, Resharper, Make, CMake, GDB, GTest, WSL|
-|Profilers|dot Trace, Ant Profiler, GProf|
-|Source control|Git, SVN, Vault, VSS, Perforce, Rational clear case|
+| .Net| .Net Framework 2/3.5/34.8, .Net Core 3.1/6 |
+| Windows technologies | Win Forms, WPF, ADO.NET, WCF, Web/Windows Service |
+| Web technologies|Angular, Material design, Typescript, ASP.NET, ASP.NET MVC, Web API, REST, CSS, HTML, JavaScript, JQuery, Ajax, JSON, Bootstrap |
+|AWS Cloud | EC2, RDS, Aurora, Lambda, Step Functions, Cloud front, API Gateway, Route 53, S3, DynamoDB, SES, SNS, SQS, IAM, VPC, Fargate, ECR, ECS, EKS, Cognito, ASG, Couldwatch, |Code Pipeline, DR Plan, Load Balancers (ALB), Elastic Search, Athena, Textract, Comprehend, EBS, WAF, ACM, Kinesis |
+| Azure | Cloud services, Functions, Virtual Machines, SQL, CosmosDB, Blob Storage, Managed Storage, Active Directory, Autoscale, Traffic Manager, Load Balancers, CDN |
+| AI  |AWS SageMaker |
+| CI/CD | Azure Devops, Terraform, Serverless |
+| Containers | Dockers |
+| Unix technologies | C++ 11/17, GDB, GMock, Shell Scripting, WxWidgets |
+| Databases | Snowflake, Oracle 11g, MySql, MS SQL Server, MS Access, SQLite |
+| ORM | Entity Framework, NHibernate |
+| Database IDE | MySQL Browser, SQL Server Management Studio, Oracle SQL Developer |
+| Code Quality | SonarQube |
+| Reporting  |Crystal reports, Splunk |
+| Development environments | Visual Studio Code, Visual Studio (2008/2010/2013/2017) |
+| Libraries | Microsoft Office PIA, Syncfusion, Dev Express, Selenium |
+| Tools | Visio, Wireshark, NUnit, NCover, FxCop, VMWare, Resharper, Make, CMake, GDB, GTest, WSL |
+| Profilers | dot Trace, Ant Profiler, GProf |
+| Source control | Git, SVN, Vault, VSS, Perforce, Rational clear case |
 
 **Email: naveenhegde.blr@gmail.com**
 
