@@ -1,5 +1,7 @@
 # Naveen Hegde
 
+## Experience
+
 * Over 17 years of extensive experience in software development using Microsoft technologies.
 * Experienced architect working on diverse set of technologies, solutioning.
 * 7+ years of total experience in leading large scale projects as manager / architect.
@@ -25,7 +27,8 @@
 * Good communication and interpersonal skills. Strong points include quicker grasp to new concepts, the ability to pursue matters in detail and ability to work in team.
 * Experience in working with team of diverse culture (Singapore, Netherland, United States).
  
-## Experience
+## Technical Knowlegde
+
 | Programming languages | C#, SQL, VB, VBA, XML, XAML, XSLT |
 |Design patterns|IoC, Dependency Injection, Singleton, MVC, MVVM, MVP, Factory, Adapter, Chain of responsibility, NGRX
 |.Net|.Net Framework 2/3.5/34.8, .Net Core 3.1/6
