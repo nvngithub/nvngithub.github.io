@@ -29,6 +29,8 @@
  
 ## Technical Knowlegde
 
+| col1 | col2 |
+| ---  | ---- |
 | Programming languages | C#, SQL, VB, VBA, XML, XAML, XSLT |
 | Design patterns | IoC, Dependency Injection, Singleton, MVC, MVVM, MVP, Factory, Adapter, Chain of responsibility, NGRX |
 
