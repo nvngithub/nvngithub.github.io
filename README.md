@@ -11,7 +11,7 @@
 * 2+ years of experience in developing web application using **Angular, TypeScript, Material design**.
 * Hands on experience in working on **AWS, Azure** cloud, using its wide range of services.
 * Experience in CI/CD, Azure Devops and infra creating using Terraform scripts.
-* Working experience on AI projects, primarily using OCR, OpenAI API.
+* Working experience on AI projects, primarily using **OCR, OpenAI API**.
 * Worked as **CTO** of a startup for around 1.5 years.
 * Experience in applying recommended **UI/UX** principles to web applications.
 * Working closely with senior managers, executives, clients and participating in business meetings, events organized by the company or clients.
