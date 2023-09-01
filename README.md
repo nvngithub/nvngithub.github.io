@@ -60,6 +60,14 @@ My open source projects are available at following URLs
 * [https://github.com/nvngithub](https://github.com/nvngithub)
 *	[https://bitbucket.org/nrhgit](https://bitbucket.org/nrhgit)
 
+|Product Name|Description|No. of Lines Contributed|
+|---|---|---|
+|NvnInstaller|Software to create MSI packages|105,000
+|NvnTest|Software for conducting online programming assessments|48,000
+|WebForms|Web portal to create forms for data capture|10,000
+|NvnNavigator|Software to capture images to be used for virtual navigation|20,000
+|WebTesting|Tool to generate selenium code for web testing automation|4,500
+|CybernetCtrl|Tool to restrict/allow internet traffic|10,000
 
 ## Contact
 
