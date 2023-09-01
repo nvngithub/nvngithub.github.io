@@ -5,27 +5,27 @@
 * Over 17 years of extensive experience in software development using Microsoft technologies.
 * Experienced architect working on diverse set of technologies, solutioning.
 * 7+ years of total experience in leading large scale projects as manager / architect.
-* Worked on multiple domains like ERP, Media, Payments, Proprietary Trading, and Education etc.
-* Experience in working on large scale Windows, Web applications developed using .Net technologies.
-* 2+ years of experience in developing web application using Angular, TypeScript, Material design.
-* Hands on experience in working on AWS, Azure cloud, using its wide range of services.
+* Worked on multiple **domains** like ERP, Media, Payments, Proprietary Trading, and Education etc.
+* Experience in working on large scale **Windows, Web applications, API** developed using .Net technologies.
+* 2+ years of experience in developing web application using **Angular, TypeScript, Material design**.
+* Hands on experience in working on **AWS, Azure** cloud, using its wide range of services.
 * Experience in CI/CD, Azure Devops and infra creating using Terraform scripts.
-* Worked as CTO of a startup for around 1.5 years.
-* Experience in applying recommended UI/UX principles to web applications.
+* Worked as **CTO** of a startup for around 1.5 years.
+* Experience in applying recommended **UI/UX** principles to web applications.
 * Working closely with senior managers, executives, clients and participating in business meetings, events organized by the company or clients.
 * Experience in architecting large applications, complex modules.
 * Played key role in technology decision making and developing architecture, programming complex modules.
 * Involved in multiple Software Development Life Cycle (SDLC).
 * Thorough understanding of Object Oriented Programming and Concepts (OOPS).
 * Experience of working using agile methodologies, following all of its recommended ceremonies.
-* Experience in multi-threaded application development and socket Programming.
+* Experience in **multi-threaded** application development and **socket Programming**.
 * Experience in developing real time and low latency financial systems, trading applications.
 * Experience in developing low latency service to handle payments.
 * Database Experience in MS SQL, Oracle. MySql Database and writing SQL queries, stored procedures.
 * Experience in source code profiling and code optimization.
 * Good experience in identifying, fixing production issues.
 * Good communication and interpersonal skills. Strong points include quicker grasp to new concepts, the ability to pursue matters in detail and ability to work in team.
-* Experience in working with team of diverse culture (Singapore, Netherland, United States).
+* Experience in working with team of diverse culture (India, United States, UK, Singapore, Netherlands).
 
 ## Technical Knowlegde
 
