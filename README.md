@@ -26,7 +26,7 @@
 * Good experience in identifying, fixing production issues.
 * Good communication and interpersonal skills. Strong points include quicker grasp to new concepts, the ability to pursue matters in detail and ability to work in team.
 * Experience in working with team of diverse culture (Singapore, Netherland, United States).
- 
+
 ## Technical Knowlegde
 
 
@@ -53,6 +53,13 @@
 | Tools | Visio, Wireshark, NUnit, NCover, FxCop, VMWare, Resharper, Make, CMake, GDB, GTest, WSL |
 | Profilers | dot Trace, Ant Profiler, GProf |
 | Source control | Git, SVN, Vault, VSS, Perforce, Rational clear case |
+
+## Open Source Projects
+
+My open source projects are available at following URLs 
+* [https://github.com/nvngithub](https://github.com/nvngithub)
+*	[https://bitbucket.org/nrhgit](https://bitbucket.org/nrhgit)
+
 
 ## Contact
 
