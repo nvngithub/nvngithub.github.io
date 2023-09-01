@@ -30,6 +30,8 @@
 ## Technical Knowlegde
 
 | Programming languages | C#, SQL, VB, VBA, XML, XAML, XSLT |
+
+
 |Design patterns|IoC, Dependency Injection, Singleton, MVC, MVVM, MVP, Factory, Adapter, Chain of responsibility, NGRX|
 |.Net|.Net Framework 2/3.5/34.8, .Net Core 3.1/6|
 |Windows technologies|Win Forms, WPF, ADO.NET, WCF, Web/Windows Service|
