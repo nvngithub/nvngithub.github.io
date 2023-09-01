@@ -61,7 +61,7 @@ My open source projects are available at following URLs
 *	[https://bitbucket.org/nrhgit](https://bitbucket.org/nrhgit)
 
 |Product Name|Description|No. of Lines Contributed|
-|---|---|---|
+|:---|:---|---:|
 |NvnInstaller|Software to create MSI packages|105,000
 |NvnTest|Software for conducting online programming assessments|48,000
 |WebForms|Web portal to create forms for data capture|10,000
