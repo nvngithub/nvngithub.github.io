@@ -4,12 +4,14 @@
 
 * Over 17 years of extensive experience in software development using Microsoft technologies.
 * Experienced architect working on diverse set of technologies, solutioning.
+* Experience in developing large scale, distributed applications.
 * 7+ years of total experience in leading large scale projects as manager / architect.
 * Worked on multiple **domains** like ERP, Media, Payments, Proprietary Trading, and Education etc.
 * Experience in working on large scale **Windows, Web applications, API** developed using .Net technologies.
 * 2+ years of experience in developing web application using **Angular, TypeScript, Material design**.
 * Hands on experience in working on **AWS, Azure** cloud, using its wide range of services.
 * Experience in CI/CD, Azure Devops and infra creating using Terraform scripts.
+* Working experience on AI projects, primarily using OCR, OpenAI API.
 * Worked as **CTO** of a startup for around 1.5 years.
 * Experience in applying recommended **UI/UX** principles to web applications.
 * Working closely with senior managers, executives, clients and participating in business meetings, events organized by the company or clients.
