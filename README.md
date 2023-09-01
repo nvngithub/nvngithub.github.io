@@ -37,7 +37,7 @@
 | .Net| .Net Framework 2/3.5/4.8, .Net Core 3.1/6/7 |
 | Windows technologies | Win Forms, WPF, ADO.NET, WCF, Web/Windows Service |
 | Web technologies | Angular, Material design, Typescript, ASP.NET, ASP.NET MVC, Web API, REST, CSS, HTML, JavaScript, JQuery, Ajax, JSON, Bootstrap |
-| AWS Cloud | EC2, RDS, Aurora, Lambda, Step Functions, Cloud front, API Gateway, Route 53, S3, DynamoDB, SES, SNS, SQS, IAM, VPC, Fargate, ECR, ECS, EKS, Cognito, ASG, Couldwatch, |Code Pipeline, DR Plan, Load Balancers (ALB), Elastic Search, Athena, Textract, Comprehend, EBS, WAF, ACM, Kinesis |
+| AWS Cloud | EC2, RDS, Aurora, Lambda, Step Functions, Cloud front, API Gateway, Route 53, S3, DynamoDB, SES, SNS, SQS, IAM, VPC, Fargate, ECR, ECS, EKS, Cognito, ASG, Couldwatch, Code Pipeline, DR Plan, Load Balancers (ALB), Elastic Search, Athena, Textract, Comprehend, EBS, WAF, ACM, Kinesis |
 | Azure | Cloud services, Functions, Virtual Machines, SQL, CosmosDB, Blob Storage, Managed Storage, Active Directory, Autoscale, Traffic Manager, Load Balancers, CDN |
 | AI  | AWS SageMaker, OpenAI API |
 | CI/CD | Azure Devops, Terraform, Serverless |
@@ -54,6 +54,6 @@
 | Profilers | dot Trace, Ant Profiler, GProf |
 | Source control | Git, SVN, Vault, VSS, Perforce, Rational clear case |
 
-**Email: naveenhegde.blr@gmail.com**
+## Contact
 
-
+**Email:** [naveenhegde.blr@gmail.com](mailto:naveenhegde.blr@gmail.com)
