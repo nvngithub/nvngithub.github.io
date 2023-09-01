@@ -1,6 +1,6 @@
 # Naveen Hegde
 
-## Experience
+## Experience Summary
 
 * Over 17 years of extensive experience in software development using Microsoft technologies.
 * Experienced architect working on diverse set of technologies, solutioning.
@@ -28,6 +28,7 @@
 * Experience in working with team of diverse culture (Singapore, Netherland, United States).
  
 ## Technical Knowlegde
+
 
 | Programming languages | C#, SQL, VB, VBA, XML, XAML, XSLT |
 |Design patterns|IoC, Dependency Injection, Singleton, MVC, MVVM, MVP, Factory, Adapter, Chain of responsibility, NGRX
