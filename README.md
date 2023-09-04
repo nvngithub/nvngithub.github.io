@@ -1,4 +1,5 @@
 # Naveen Hegde
+I am a full stack developer with 17+ years of work experience in Web / Windows application development, cloud, databases, AI / ML, architecting and solutionning.
 
 ## Experience Summary
 
